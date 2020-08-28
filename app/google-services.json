@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410201025312",
+    "firebase_url": "https://eztrainingsapp.firebaseio.com",
+    "project_id": "eztrainingsapp",
+    "storage_bucket": "eztrainingsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410201025312:android:40055565accf4521f40545",
+        "android_client_info": {
+          "package_name": "com.example.eztrainings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410201025312-e5dr2i03gmji9lsu0b762o4db5d2n9se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eztrainings",
+            "certificate_hash": "37ae287c6c62dc28a75fde66473e09703a363893"
+          }
+        },
+        {
+          "client_id": "410201025312-npu0qo0pev64m2ftaah3s36k109d5bvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-BGhW-xvZ30gT6Fzm5JStt_sZsPG0HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410201025312-npu0qo0pev64m2ftaah3s36k109d5bvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
